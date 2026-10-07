@@ -1,4 +1,5 @@
 # nema17_planetary_gearbox
+My own model made after some designs found online. I tried using the readily available STL files for something similar, but realized I need my own to adjust the clearances for my printer.
 12 teeth on planet gears, 14 on sun gear, 38 on ring gear, ring gear fixed (3.714 ratio)
 
 ![nema17 gearbox](images/nema17_gearbox.png)
